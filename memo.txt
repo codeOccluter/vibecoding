@@ -5,3 +5,7 @@
 2. AI 기술이 계속 계속 바뀜!
 
 git test
+
+2025. 09. 10. (수)
+
+feat/test - git clone
